@@ -57,4 +57,4 @@ A racket application is needed in order to run the program.
 1. Navigate to the project directory:
    cd path/to/PrefixCalc 
 2. Use the Scheme compiler (assuming you're using a generic one for this example):
-   scheme-compiler racket sourcefile.rkt 
+   scheme-compiler racket Calculator.rkt 
